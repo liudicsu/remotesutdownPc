@@ -5,7 +5,8 @@ Only for windows system
 Remote Shutdown the windows system when a Magic Packet received
 
 tips:1. the program need to be runned with administrator privilege
-
+     2. the lestening port is 8929
+     
 after compiling  and geting the program. you should use the SC command to install this program as a service.
 
 For example:
